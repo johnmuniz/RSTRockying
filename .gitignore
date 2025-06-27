@@ -4,6 +4,7 @@
 
 /art
 /rockyclf_rockying_2021-07-19_10-51-21
+temp_auto_push.bat
 /rockying.bak
 /test
 /mail
@@ -11,3 +12,5 @@
 /RSTRockying/{A6B1C991-A263-4123-97F6-76D5DE1A3037}
 /packages/Newtonsoft.Json.13.0.1
 /vwd.webinfo
+temp_interactive_push.bat
+branch_structure.json
